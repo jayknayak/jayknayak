@@ -21,9 +21,8 @@ Interests - Programming, Cybersecurity, Artificial Intelligence (AI),Cosmos, con
 ---
 
 🧰 Toolbox
-<br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS logo" width="50px" height="50px" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React logo" width="50px" height="50px" />
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS logo" width="50px" height="50px" /><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React logo" width="50px" height="50px" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node logo" width="50px" height="50px" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python logo" width="50px" height="50px" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="Django logo" width="50px" height="50px" />
@@ -41,6 +40,11 @@ Interests - Programming, Cybersecurity, Artificial Intelligence (AI),Cosmos, con
 <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" alt="PyCharm logo" width="50px" height="50px" />
 
 ---
+
+## &#x1f4c8; My GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayknayak&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayknayak&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **jayknayak/jayknayak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
