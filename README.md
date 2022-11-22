@@ -55,7 +55,7 @@ Interests - Programming, Cybersecurity, Artificial Intelligence (AI),Cosmos, con
 ---
 
 ## &#x1f4c8; My GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayknayak&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayknayak&langs_count=7&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayknayak&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
