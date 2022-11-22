@@ -1,6 +1,19 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />, I'm Jay Nayak!
+<h2> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />, I'm Jay Nayak! </h2>
+
+
+<h3>:busts_in_silhouette: How to reach me</h3>
+<a href="https://github.com/jayknayak">
+    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/jayknayak?style=social&label=@jayknayak">
+</a>
+<a href="https://twitter.com/jayknayak">
+    <img alt="Link to my Twitter" src="https://img.shields.io/twitter/follow/jayknayak?style=social&label=@jayknayak">
+</a>
+<a href="https://www.linkedin.com/in/jayknayak/">
+    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/jayknayak&color=0A66C2&style=flat&logo=linkedin" />
+</a>
 
 ---
+<h3> About me </h3>
 Over 6 years of experience in Designing, Developing, Testing, and Deploying Web Applications.
 Designed and implemented three highly scalable web applications on the production environment delivering business requirements of three Fortune Global 500, one Public Organization, and two different MNCs.
 
