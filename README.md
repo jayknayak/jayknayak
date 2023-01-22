@@ -25,7 +25,7 @@ Knowledge & Skills in Software Engineering - Full Stack Web
 Developments, Requirements Gathering, Programming in Java,
 JavaScript, React, Python, HTML, CSS. RDBMS (MySQL,
 PostgreSQL).
-Tools - Git, Docker, Amazon Web Services (AWS), VS Code, Eclipse, PyCharm, and Linux.
+Tools - Git, Docker, Amazon Web Services (AWS), NGINX, VS Code, Eclipse, PyCharm, and Linux.
 
 Research Experience (2 years)- Research Assistant in CyberSecurity at the University of Regina.Research - Cyber-physical Systems (Smart Grid), Cyber Security inCritical Infrastructure systems.
 
