@@ -14,10 +14,10 @@
 
 ---
 <h3> About me </h3>
-Over 6 years of experience in Designing, Developing, Testing, and Deploying Web Applications.
+Over 7 years of experience in Designing, Developing, Testing, and Deploying Web Applications.
 Designed and implemented three highly scalable web applications on the production environment delivering business requirements of three Fortune Global 500, one Public Organization, and two different MNCs.
 
-Professional Experience (5+ years)- Full Stack Web Development, Programming Techniques and Concepts, Software Engineering, and RDBMS.
+Professional Experience (6+ years)- Full Stack Web Development, Programming Techniques and Concepts, Software Engineering, and RDBMS.
 
 Education - Master of Applied Science (MASc).
 
