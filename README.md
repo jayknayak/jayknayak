@@ -1,41 +1,36 @@
-<h2> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />, I'm Jay Nayak! </h2>
+<h2 align="center"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />, I'm Jay Nayak! </h2>
 
-
-<h3>:busts_in_silhouette: How to reach me</h3>
-<a href="https://github.com/jayknayak">
-    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/jayknayak?style=social&label=@jayknayak">
-</a>
-<a href="https://twitter.com/jayknayak">
-    <img alt="Link to my Twitter" src="https://img.shields.io/twitter/follow/jayknayak?style=social&label=@jayknayak">
-</a>
-<a href="https://www.linkedin.com/in/jayknayak/">
-    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/jayknayak&color=0A66C2&style=flat&logo=linkedin" />
-</a>
-
----
-<h3> About me </h3>
-Over 7 years of experience in Designing, Developing, Testing, and Deploying Web Applications.
-Designed and implemented three highly scalable web applications on the production environment delivering business requirements of three Fortune Global 500, one Public Organization, and two different MNCs.
-
-Professional Experience (6+ years)- Full Stack Web Development, Programming Techniques and Concepts, Software Engineering, and RDBMS.
-
-Education - Master of Applied Science (MASc).
-
-Knowledge & Skills in Software Engineering - Full Stack Web
-Developments, Requirements Gathering, Programming in Java,
-JavaScript, React, Python, HTML, CSS. RDBMS (MySQL,
-PostgreSQL).
-Tools - Git, Docker, Amazon Web Services (AWS), NGINX, VS Code, Eclipse, PyCharm, and Linux.
-
-Research Experience (2 years)- Research Assistant in CyberSecurity at the University of Regina.Research - Cyber-physical Systems (Smart Grid), Cyber Security inCritical Infrastructure systems.
-
-Interests - Programming, Cybersecurity, Artificial Intelligence (AI),Cosmos, continuous Self-development.
+<p align="center">
+  Passionate Full Stack Developer | Cybersecurity Enthusiast | AI Explorer
+</p>
 
 ---
 
-🧰 Toolbox
+### 🌐 Connect with Me
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS logo" width="50px" height="50px" title="JavaScript" /> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python logo" width="50px" height="50px" title="Python"/>
+<p align="center">
+  <a href="https://github.com/jayknayak"><img alt="GitHub" src="https://img.shields.io/github/followers/jayknayak?style=social&label=@jayknayak"></a>
+  <a href="https://twitter.com/jayknayak"><img alt="Twitter" src="https://img.shields.io/twitter/follow/jayknayak?style=social&label=@jayknayak"></a>
+  <a href="https://www.linkedin.com/in/jayknayak/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
+</p>
+
+---
+
+### 🧑‍💻 About Me
+- **7+ years** experience in designing, developing, and deploying web applications, working with Fortune Global 500 clients and public organizations.
+- Expertise in **Full Stack Development**: JavaScript, React, Java, Python, and RDBMS.
+- **Education**: Master of Applied Science (MASc), specializing in Cybersecurity for Critical Infrastructure.
+- **Research**: Former Research Assistant at the University of Regina focused on Smart Grids and Cyber-physical Systems.
+
+### 🌱 Always Learning
+Exploring advanced **Cybersecurity**, **Artificial Intelligence**, and the **Cosmos**. I love continuous self-development and enjoy sharing my learning journey with others!
+
+---
+
+### 🔧 Languages and Tools
+
+<p align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS logo" width="50px" height="50px" title="JavaScript" /> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python logo" width="50px" height="50px" title="Python"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java logo" width="50px" height="50px" title="Java"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React logo" width="50px" height="50px" title="React.js"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Nextjs logo" width="50px" height="50px" title="Next.js"/>
@@ -52,7 +47,18 @@ Interests - Programming, Cybersecurity, Artificial Intelligence (AI),Cosmos, con
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS logo" width="50px" height="50px" title="AWS"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux logo" width="50px" height="50px" title="Linux OS"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="Npm logo" width="50px" height="50px" title="NPM"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="Code logo" width="50px" height="50px" title="VS Code"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" alt="PyCharm logo" width="50px" height="50px" title="Pycharm"/>
+
+</p>
 
 ---
+
+### 🚀 What I’m Working On
+- Building scalable and secure web applications for enterprises.
+- Research on **Cybersecurity in Critical Infrastructure** systems and **Smart Grids**.
+- Exploring **Artificial Intelligence** to innovate in Cyber-physical security.
+
+---
+
+### 🌌 Fun Fact
+> “The cosmos is within us. We are made of star-stuff.”  
+> — Carl Sagan
