@@ -17,7 +17,7 @@
 ---
 
 ### 🧑‍💻 About Me
-- **7+ years** experience in designing, developing, and deploying web applications, working with Fortune Global 500 clients, public organizations, and MNCs.
+- **8+ years** experience in designing, developing, and deploying web applications, working with Fortune Global 500 clients, public organizations, and MNCs.
 - Expertise in **Full Stack Development**: JavaScript, Next, React, Java, Python, and RDBMS.
 - **Education**: Master of Applied Science (MASc), specializing in Cybersecurity for Critical Infrastructure.
 - **Research**: Former Research Assistant at the University of Regina focused on Smart Grids and Cyber-physical Systems.
